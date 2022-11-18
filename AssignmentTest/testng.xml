@@ -22,7 +22,7 @@
 	<parameter name="browser" value="CHROME" />
 	<parameter name="max_wait" value="20" />
 	<parameter name="isHeadless" value="false" />
-	<parameter name="close_browser_after_execution" value="false" />
+	<parameter name="close_browser_after_execution" value="false"  />
 
 	<test name="Test">
 		<classes>				
